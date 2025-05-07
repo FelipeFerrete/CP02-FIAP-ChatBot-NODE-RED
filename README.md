@@ -38,6 +38,17 @@ Além disso, o projeto demonstra na prática a **integração entre serviços de
 
 ---
 
+## ▶️ Como Executar
+
+1. Abra o CMD e digite `node-red`  
+2. Acesse `http://localhost:1880` no navegador  
+3. Clique no menu (☰) > Import > Clipboard  
+4. Cole o fluxo do projeto e clique em "Importar"  
+5. Configure o token do seu bot do Telegram no nó correspondente  
+6. Pronto! Agora é só testar o chatbot no Telegram 🚀
+
+---
+
 ## 👨‍💻 Desenvolvido por
 
 **Felipe Ferrete**  
